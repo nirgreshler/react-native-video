@@ -1,3 +1,4 @@
+// Example for Jamly player
 'use strict';
 
 import React, {
